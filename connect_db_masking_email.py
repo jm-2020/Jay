@@ -1,4 +1,4 @@
-mport teradatasql
+import teradatasql
 import pandas as pd
 
 def mask_email(email):
